@@ -1,7 +1,7 @@
 In the 'Python_ML_DL_DS' folder, I have writeen a lot of Python codes, starting from basics to some very interesting problems of a standard Data Science course. 
 I have mainly solved the problems or assignments given in the course "Foundations of Data Science" introduced by "One Fourth Labs". I have written codes of basic 
 Python, Numpy, Pandas, Sympy, and I have used matplotlib, seaborn, plotly for visualization of the plots. I have written codes on various numerical methods 
-using Python. 
+using Python. There is also one code on solving tight binding Hamiltonian matrix using SymPy. 
 
 In 'Udemy_Machine_LearningA-Z' folder, I have build and trained various Machine Learning (ML) models which I have learnt from Udemy ML course 
 (Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2024]). I have written codes on data preprocessing and various regression models like 
