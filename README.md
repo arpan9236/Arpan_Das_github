@@ -14,4 +14,5 @@ code and Professor at University of Udine, Italy) and noted in a book/pdf given 
 quantum mechanical and solid state physics problems and write all the codes in python. I have started working on it. Many more to come. Finally, I will apply all 
 the methods and write thecodes of density functional theory using python. 
 
-
+As I am trained in materials modelling and computer simulations of materials, and now I am learning data science and machine learning, my bigger aim is to apply machine learning,
+ data science and artificial intelligence in materials simulations for rational design of nanomaterials.  
