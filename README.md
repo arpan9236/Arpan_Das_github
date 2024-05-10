@@ -3,7 +3,7 @@ I have mainly solved the problems or assignments given in the course "Foundation
 Python, Numpy, Pandas, Sympy, and I have used matplotlib, seaborn, plotly for visualization of the plots. I have written codes on various numerical methods 
 using Python. 
 
-In 'Udemy_Machine_LearningA-Z' folder, I have build and trained Machine Learning (ML) models which I have learnt from Udemy ML course. I have written codes on 
+In 'Udemy_Machine_LearningA-Z' folder, I have build and trained various Machine Learning (ML) models which I have learnt from Udemy ML course. I have written codes on 
 data preprocessing and various regression models like simple linear regression, multiple linear regression, polynomial linear regression, support vector regression, 
 decision tree regression, and random forest regression. I have also compared these models and shown how to choose the best regression model. I have completed 
 the course upto this portion. Currently I am learning the other ML topics and models. I will update the codes for other ML models as I finish learning topics. 
