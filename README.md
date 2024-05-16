@@ -12,7 +12,7 @@ the other ML topics and models. I will update the codes for other ML models as I
 In "Numerical_Methods_QM_P-Giannozzi" folder, I have written python codes for numerical methods in Quantum Mechanics which is taught by 
 Paolo Giannozzi (Developer of Quantum ESPRESSO code and Professor at University of Udine, Italy) and noted in a book/pdf given in his website. 
 My vision is to understand the numerical methods, apply in quantum mechanical and solid state physics problems and write all the codes in python. 
-I have started working on it. Many more to come. Finally, I will apply all the methods and write thecodes of density functional theory using python. 
+I have started working on it. Many more to come. Finally, I will apply all the methods and write the codes of density functional theory (DFT) using python. 
 
 As I am trained in materials modelling and computer simulations of materials, and now I am learning data science and machine learning, my bigger aim is to apply machine learning,
  data science and artificial intelligence in materials simulations for rational design of nanomaterials.  
