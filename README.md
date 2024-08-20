@@ -12,4 +12,4 @@ Paolo Giannozzi (Developer of Quantum ESPRESSO code and Professor at University 
 My vision is to understand the numerical methods, apply in quantum mechanical and solid state physics problems and write all the codes in python. 
 I have started working on it and some problems with Schrodinger equaion in 1D are uploaded till now. Many more to come. Finally, I will apply all the methods and write the codes of density functional theory (DFT) using python. 
 
-As I am trained have more than 6 years of experience in materials modelling and computer simulations of materials, and now I am learning data science and machine learning, my bigger aim is to apply machine learning, data science and artificial intelligence in materials simulations for rational design of nanomaterials for selective properties. 
+As I am trained and have more than 6 years of experience in materials modelling and computer simulations of materials, and now I am learning data science and machine learning, my bigger aim is to apply machine learning, data science and artificial intelligence in materials simulations for rational design of nanomaterials for selective properties. 
